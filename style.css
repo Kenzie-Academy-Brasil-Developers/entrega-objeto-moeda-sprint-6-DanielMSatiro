@@ -1,0 +1,17 @@
+img {
+   width: 33%; 
+}
+
+span {
+    word-break: break-word;
+}
+
+h2 {
+    width: 100%;
+    text-align: center;
+}
+
+#images {
+    display: flex;
+    flex-wrap: wrap;
+}
